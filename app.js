@@ -13,7 +13,7 @@ let items = [
 
 // Route untuk root URL (Home)
 app.get("/", (req, res) => {
-  res.send("Welcome to the Home Page!");
+  res.send("Welcome to the Home Page two");
 });
 
 // READ: Mendapatkan semua data
